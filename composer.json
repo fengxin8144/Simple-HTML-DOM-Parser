@@ -1,0 +1,11 @@
+{
+    "name": "neu-soft/php-simple-html-dom-parse",
+    "description": "php-simple-html-dom-parse v1.9",
+    "authors": [
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "require": {}
+}
